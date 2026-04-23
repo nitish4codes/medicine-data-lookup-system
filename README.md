@@ -29,15 +29,14 @@ It normalizes raw medicine records and allows users to query data based on diffe
 
 ## Project Structure
 
-medicine_project/
-│
-├── data/
-│   └── medicines.csv
-├── main.py
-├── requirements.txt
-├── README.md
-└── .gitignore
-
+    medicine_project/
+    │
+    ├── data/
+    │   └── medicines.csv
+    ├── main.py
+    ├── requirements.txt
+    ├── README.md
+    └── .gitignore
 ---
 
 ## How to Run
